@@ -11,16 +11,16 @@ h1 {
 
 
 
-ul {
+.navbar ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	background-color: purple;
 }
-li {
+.navbar li {
 	display: inline;
 }
-li a {
+.navbar li a {
   display: inline;
   color: white;
   text-align: center;
